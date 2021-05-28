@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="halaman_awal">Halaman Awal</string>
+    <string name="click_me">Click Me</string>
+    <string name="back">Back?</string>
+    <string name="halaman_2">Ini adalah\nHalaman ke 2</string>
+</resources>
