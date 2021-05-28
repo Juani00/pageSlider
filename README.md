@@ -1,2 +1,2 @@
 # pageSlider
- Aplikasi ganti tampilan layar
+ Aplikasi sederhana mengganti/berpindah tampilan layar
